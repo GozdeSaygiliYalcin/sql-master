@@ -45,9 +45,7 @@ What would you do if you had more time? Which design decisions and trade-offs di
 
 * It took me a long time to understand what was wanted in the first place, so I spent a lot of time thinking about functions.
 * I was able to read the .csv file successfully.
-* ORDER BY DESC is working properly, and I had time to test it. However, I couldn't implement the inner join method exactly due to the naming issue.
-* For this, I applied very traditional methods that came to my mind at first glance to run the code. If I had more time, 
-* I would try to organize and optimize them (for example, I would use direct logging instead of System.out.print). 
+* ORDER BY DESC is working properly, and I had time to test it. However, I couldn't implement the inner join method exactly due to the naming issue. For this, I applied very traditional methods that came to my mind at first glance to run the code. If I had more time, I would try to organize and optimize them (for example, I would use direct logging instead of System.out.print). 
 * I would fill the domain part with more meaningful data; I didn't have much time to configure it.
 
 
